@@ -1,0 +1,10 @@
+#EXTM3U
+
+#EXTINF:-1, Boing
+http://mdslivehls-i.akamaihd.net/hls/live/571647/boing/bitrate_4.m3u8
+
+#EXTINF:-1, Antena 3 
+https://www.atresplayer.com/directos/antena3/.m3u8
+
+#EXTINF:-1, Clan
+https://www.rtve.es/play/videos/directo/canal-clan-directo/clan/.m3u8
