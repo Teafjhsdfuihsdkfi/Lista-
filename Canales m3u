@@ -3,5 +3,5 @@
 #EXTINF:-1, La cuatro
 http://cuatro-mediaset-esp-live.secure.footprint.net/mediaset/cuatro/stream1/streamPlaylist.m3u8
 
-#EXTINF:-1, tvg-id="Clan.TV" tvg-logo="https://graph.facebook.com/clantve/picture?width=200&height=200" group-title="Infantiles" tvg-name="Clan",Clan GEO
-https://ztnr.rtve.es/ztnr/5466990.m3u8
+#EXTINF:-1, Nickelodeon
+rtp://@239.192.250.170:2000?payload=mp2t/rtp
